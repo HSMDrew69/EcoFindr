@@ -1,0 +1,235 @@
+body { 
+
+    font-family: Arial, sans-serif; 
+
+} 
+
+  
+
+#login-form { 
+
+    width: 300px; 
+
+    margin: 40px auto; 
+
+    padding: 20px; 
+
+    border: 1px solid #ccc; 
+
+    border-radius: 10px; 
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+
+} 
+
+  
+
+#login-form input[type="text"], #login-form input[type="password"] { 
+
+    width: 100%; 
+
+    height: 30px; /* reduced height from 40px to 30px */ 
+
+    margin-bottom: 20px; 
+
+    padding: 5px; /* reduced padding from 10px to 5px */ 
+
+    border: 1px solid #ccc; 
+
+} 
+
+  
+
+#login-form button { 
+
+    width: 100%; 
+
+    height: 40px; 
+
+    padding: 10px; 
+
+    border: none; 
+
+    border-radius: 10px; 
+
+    cursor: pointer; 
+
+    margin-bottom: 20px; /* add margin-bottom to space buttons apart */ 
+
+} 
+
+  
+
+#login-form button:first-child { 
+
+    background-color: #4CAF50; /* green */ 
+
+    color: #fff; 
+
+} 
+
+  
+
+#login-form button:first-child:hover { 
+
+    background-color: #3e8e41; 
+
+} 
+
+  
+
+#login-form button:nth-child(2) { 
+
+    background-color: #007bff; /* blue */ 
+
+    color: #fff; 
+
+} 
+
+  
+
+#login-form button:nth-child(2):hover { 
+
+    background-color: #0069d9; 
+
+} 
+
+  
+
+#login-form button:last-child { 
+
+    background-color: #ff0000; /* red */ 
+
+    color: #fff; 
+
+} 
+
+  
+
+#login-form button:last-child:hover { 
+
+    background-color: #cc0000; 
+
+} 
+
+  
+
+#response { 
+
+    margin-top: 20px; 
+
+    font-size: 18px; 
+
+    color: #666; 
+
+} 
+
+  
+
+#sign-up-form { 
+
+    display: none; 
+
+    width: 300px; 
+
+    margin: 40px auto; 
+
+    padding: 20px; 
+
+    border: 1px solid #ccc; 
+
+    border-radius: 10px; 
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+
+} 
+
+  
+
+#sign-up-form input[type="text"], #sign-up-form input[type="password"] { 
+
+    width: 100%; 
+
+    height: 30px; /* reduced height from 40px to 30px */ 
+
+    margin-bottom: 20px; 
+
+    padding: 5px; /* reduced padding from 10px to 5px */ 
+
+    border: 1px solid #ccc; 
+
+} 
+
+  
+
+#sign-up-form button { 
+
+    width: 100%; 
+
+    height: 40px; 
+
+    padding: 10px; 
+
+    border: none; 
+
+    border-radius: 10px; 
+
+    cursor: pointer; 
+
+    margin-bottom: 20px; /* add margin-bottom to space buttons apart */ 
+
+} 
+
+  
+
+#sign-up-form button:first-child { 
+
+    background-color: #4CAF50; /* green */ 
+
+    color: #fff; 
+
+} 
+
+  
+
+#sign-up-form button:first-child:hover { 
+
+    background-color: #3e8e41; 
+
+} 
+
+  
+
+#sign-up-form button:nth-child(2) { 
+
+    background-color: #007bff; /* blue */ 
+
+    color: #fff; 
+
+} 
+
+  
+
+#sign-up-form button:nth-child(2):hover { 
+
+    background-color: #0069d9; 
+
+} 
+
+  
+
+#sign-up-form button:last-child { 
+
+    background-color: #ff0000; /* red */ 
+
+    color: #fff; 
+
+} 
+
+  
+
+#sign-up-form button:last-child:hover { 
+
+    background-color: #cc0000; 
+
+} 
