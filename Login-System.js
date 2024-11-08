@@ -1,4 +1,3 @@
-    public class Main {
         document.addEventListener("DOMContentLoaded", function() {
             const loginBtn = document.getElementById("login-btn");
             const signUpBtn = document.getElementById("sign-up-btn");
